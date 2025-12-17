@@ -36,4 +36,11 @@ The project applies data preprocessing, feature engineering, and multiple regres
 ---
 
 ## Project Structure
+IMDb-Indian-Movies-ML/
+├── data/ # Raw and cleaned dataset CSV files
+├── notebooks/ # Jupyter notebooks for EDA and modeling
+├── scripts/ # Python scripts for preprocessing, training, evaluation
+├── figures/ # Visualizations used in the report
+├── README.md # Project overview and instructions
+└── main_report.pdf # Final analysis report
 
